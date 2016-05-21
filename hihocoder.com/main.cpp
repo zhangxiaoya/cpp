@@ -1,8 +1,12 @@
 #include <iostream>
 
+#include "ClassTest.h"
+
 using namespace std;
 
+
 int main() {
-    cout << "Hello, World!" << endl;
+    ClassTest c1(12,"xiaoya",1.78);
+    c1.info();
     return 0;
 }
