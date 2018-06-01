@@ -8,3 +8,5 @@ add_executable(practice_duration practice_duration.cpp)
 add_executable(practice_time_point practice_time_point.cpp)
 
 add_executable(practice_clock practice_clock.cpp)
+
+add_executable(others others.cpp)
